@@ -1,0 +1,26 @@
+{
+  "name": "fruitmerger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fruitMerger.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntaylor6422/FruitMerger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntaylor6422/FruitMerger/issues"
+  },
+  "homepage": "https://github.com/ntaylor6422/FruitMerger#readme",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
