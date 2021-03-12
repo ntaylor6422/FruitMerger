@@ -1,7 +1,7 @@
 {
   "name": "fruitmerger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Merges two fruit",
   "main": "fruitMerger.js",
   "directories": {
     "test": "tests"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/ntaylor6422/FruitMerger.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ntaylor6422/FruitMerger/issues"
   },
